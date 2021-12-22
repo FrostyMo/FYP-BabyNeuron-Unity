@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397849468934",
+    "firebase_url": "https://unitytest-b6f4e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unitytest-b6f4e",
+    "storage_bucket": "unitytest-b6f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397849468934:android:24bbdab0cfa84b1971a387",
+        "android_client_info": {
+          "package_name": "com.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397849468934-ditdft2g853tk6b26kc0e5lq7ugoe07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQALiAFbgCq1u7w3Lvhr924xoCucH7NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397849468934-ditdft2g853tk6b26kc0e5lq7ugoe07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
