@@ -29,7 +29,7 @@ The authors of this R&D are all students of FAST NUCES Islamabad.
 - Shahnoor Haider 18i-0460
 - Umair Anwar 18i-0500
 ## References
-https://www.youtube.com/watch?v=7gxMVOs6rEs
-https://www.unity.com/
-https://www.youtube.com/watch?v=1vVdCXjXja4
-https://www.udemy.com/course/unity-game-tutorial-3d-memory-game-3d-matching-game/
+- https://www.youtube.com/watch?v=7gxMVOs6rEs
+- https://www.unity.com/
+- https://www.youtube.com/watch?v=1vVdCXjXja4
+- https://www.udemy.com/course/unity-game-tutorial-3d-memory-game-3d-matching-game/
